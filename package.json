@@ -1,5 +1,5 @@
 {
-  "name": "generator-ts-lambda",
+  "name": "generator-lambda-ts",
   "version": "0.0.2",
   "description": "Generator for building AWS Lambda functions with Typescript",
   "main": "./lib/index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/skonves/generator-ts-lambda.git"
+    "url": "https://github.com/skonves/generator-lambda-ts.git"
   },
   "keywords": [],
   "author": "",
