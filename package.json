@@ -1,6 +1,6 @@
 {
   "name": "generator-ts-lambda",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generator for building AWS Lambda functions with Typescript",
   "main": "./lib/index.js",
   "scripts": {
@@ -13,8 +13,8 @@
     "test": "NODE_ENV=test nyc mocha --require source-map-support/register --require ts-node/register --recursive './src/**/*.tests.ts'"
   },
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/skonves/generator-ts-lambda.git"
+    "type": "git",
+    "url": "https://github.com/skonves/generator-ts-lambda.git"
   },
   "keywords": [],
   "author": "",
