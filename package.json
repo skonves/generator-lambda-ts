@@ -1,6 +1,6 @@
 {
   "name": "generator-lambda-ts",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Generator for building AWS Lambda functions with Typescript",
   "main": "./lib/index.js",
   "scripts": {
