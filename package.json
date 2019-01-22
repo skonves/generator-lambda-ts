@@ -1,7 +1,7 @@
 {
   "name": "generator-lambda-ts",
   "version": "0.0.3",
-  "description": "Generator for building AWS Lambda functions with Typescript",
+  "description": "The Galaxy's OKest Typescript AWS Lambda Generator for Yeoman",
   "main": "./lib/index.js",
   "scripts": {
     "prebuild": "npm run lint && rm -rf generators/*",

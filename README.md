@@ -1,6 +1,6 @@
 # Typescript AWS Lambda Function Generator
 
-Generate basic AWS Lambda functions written in Typescript
+The Galaxy's OKest Typescript AWS Lambda Generator for [Yeoman](https://yeoman.io)
 
 - Typescript 3
 - Code formatting with Prettier and TSLint
