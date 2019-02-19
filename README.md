@@ -1,3 +1,6 @@
+[![npm](https://img.shields.io/npm/v/generator-lambda-ts.svg)](https://www.npmjs.com/package/generator-lambda-ts)
+[![verification](https://api.verifynpm.com/v0/packages/generator-lambda-ts/badge.svg)](https://api.verifynpm.com/v0/packages/generator-lambda-ts)
+
 # Typescript AWS Lambda Function Generator
 
 The Galaxy's OKest Typescript AWS Lambda Generator for [Yeoman](https://yeoman.io)
