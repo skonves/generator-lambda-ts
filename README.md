@@ -12,7 +12,7 @@ The Galaxy's OKest Typescript AWS Lambda Generator for [Yeoman](https://yeoman.i
 
 ### Create a new AWS Lambda function
 
-1.  Globally install this generator: `npm install -g generator-ts-lambda`
+1.  Globally install this generator: `npm install -g generator-lambda-ts`
 1.  From the root of your new project, run `yo ts-lambda` (NOTE: run `yo ts-lambda --help` for options)
 
 ### Add Travic CI config
