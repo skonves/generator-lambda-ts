@@ -1,6 +1,6 @@
 {
   "name": "generator-lambda-ts",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "The Galaxy's OKest Typescript AWS Lambda Generator for Yeoman",
   "main": "./lib/index.js",
   "scripts": {
